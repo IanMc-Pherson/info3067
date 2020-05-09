@@ -5,8 +5,8 @@
         "GraphicName": "MacBook Pro 16",
         "CostPrice": "2499.99",
         "MSRP": "2499.99",
-        "QtyOnHand": 4,
-        "QtyOnBackOrder": 10,
+        "QtyOnHand": "4",
+        "QtyOnBackOrder": "10",
         "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
     },
     {
@@ -15,8 +15,8 @@
         "GraphicName": "MacBook Pro 15",
         "CostPrice": "2249.99",
         "MSRP": "2249.99",
-        "QtyOnHand": 8,
-        "QtyOnBackOrder": 6,
+        "QtyOnHand": "8",
+        "QtyOnBackOrder": "6",
         "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
     },
     {
@@ -25,8 +25,8 @@
         "GraphicName": "MacBook Pro 13",
         "CostPrice": "1999.99",
         "MSRP": "1999.99",
-        "QtyOnHand": 6,
-        "QtyOnBackOrder": 18,
+        "QtyOnHand": "6",
+        "QtyOnBackOrder": "18",
         "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
     },
     {
@@ -35,8 +35,8 @@
         "GraphicName": "MacBook Air",
         "CostPrice": "1499.99",
         "MSRP": "1499.99",
-        "QtyOnHand": 5,
-        "QtyOnBackOrder": 12,
+        "QtyOnHand": "5",
+        "QtyOnBackOrder": "12",
         "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
     },
     {
@@ -45,8 +45,8 @@
         "GraphicName": "MacBook Pro",
         "CostPrice": "49999.99",
         "MSRP": "49999.99",
-        "QtyOnHand": 1,
-        "QtyOnBackOrder": 3,
+        "QtyOnHand": "1",
+        "QtyOnBackOrder": "3",
         "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
     },
     {
@@ -55,8 +55,8 @@
         "GraphicName": "Razer Blade Stealth 13",
         "CostPrice": "1849.99",
         "MSRP": "1849.99",
-        "QtyOnHand": 12,
-        "QtyOnBackOrder": 7,
+        "QtyOnHand": "12",
+        "QtyOnBackOrder": "7",
         "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
     },
     {
@@ -65,8 +65,8 @@
         "GraphicName": "Razer Blade 15",
         "CostPrice": "1449.99",
         "MSRP": "1449.99",
-        "QtyOnHand": 9,
-        "QtyOnBackOrder": 5,
+        "QtyOnHand": "9",
+        "QtyOnBackOrder": "5",
         "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
     },
     {
@@ -75,8 +75,8 @@
         "GraphicName": "Razer Blade 17",
         "CostPrice": "1999.99",
         "MSRP": "1999.99",
-        "QtyOnHand": 10,
-        "QtyOnBackOrder": 5,
+        "QtyOnHand": "10",
+        "QtyOnBackOrder": "5",
         "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
     },
     {
@@ -85,8 +85,8 @@
         "GraphicName": "Razer Blade 15 Studio Edition",
         "CostPrice": "1249.99",
         "MSRP": "1249.99",
-        "QtyOnHand": 15,
-        "QtyOnBackOrder": 25,
+        "QtyOnHand": "15",
+        "QtyOnBackOrder": "25",
         "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
     },
     {
@@ -95,8 +95,8 @@
         "GraphicName": "Razer Raptor 27",
         "CostPrice": "749.99",
         "MSRP": "749.99",
-        "QtyOnHand": 6,
-        "QtyOnBackOrder": 10,
+        "QtyOnHand": "6",
+        "QtyOnBackOrder": "10",
         "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
     },
     {
@@ -105,8 +105,8 @@
         "GraphicName": "Surface Go 2",
         "CostPrice": "499.99",
         "MSRP": "499.99",
-        "QtyOnHand": 12,
-        "QtyOnBackOrder": 15,
+        "QtyOnHand": "12",
+        "QtyOnBackOrder": "15",
         "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
     },
     {
@@ -115,8 +115,8 @@
         "GraphicName": "Surface Laptop 3",
         "CostPrice": "1499.99",
         "MSRP": "1499.99",
-        "QtyOnHand": 11,
-        "QtyOnBackOrder": 14,
+        "QtyOnHand": "11",
+        "QtyOnBackOrder": "14",
         "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
     },
     {
@@ -125,8 +125,8 @@
         "GraphicName": "Surface Pro 7",
         "CostPrice": "1849.99",
         "MSRP": "1849.99",
-        "QtyOnHand": 9,
-        "QtyOnBackOrder": 13,
+        "QtyOnHand": "9",
+        "QtyOnBackOrder": "13",
         "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
     },
     {
@@ -135,8 +135,8 @@
         "GraphicName": "Surface Book 3",
         "CostPrice": "2499.99",
         "MSRP": "2499.99",
-        "QtyOnHand": 4,
-        "QtyOnBackOrder": 16,
+        "QtyOnHand": "4",
+        "QtyOnBackOrder": "16",
         "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
     },
     {
@@ -145,8 +145,8 @@
         "GraphicName": "Surface Studio 2",
         "CostPrice": "3999.99",
         "MSRP": "3999.99",
-        "QtyOnHand": 3,
-        "QtyOnBackOrder": 5,
+        "QtyOnHand": "3",
+        "QtyOnBackOrder": "5",
         "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
     }
 ]
