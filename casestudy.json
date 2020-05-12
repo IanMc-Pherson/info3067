@@ -2,151 +2,151 @@
     {
         "name": "Apple",
         "ProductName": "MacBook Pro 16",
-        "GraphicName": "MacBook Pro 16",
+        "GraphicName": "macpro16.jpg",
         "CostPrice": "2499.99",
         "MSRP": "2499.99",
         "QtyOnHand": "4",
         "QtyOnBackOrder": "10",
-        "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
+        "Description": "The new MacBook Pro is by far the most powerful notebook we’ve ever made. With an immersive 16-inch Retina display, superfast processors, next-generation graphics, the largest battery capacity ever in a MacBook Pro, a new Magic Keyboard and massive storage, it’s the ultimate pro notebook for the ultimate user."
     },
     {
         "name": "Apple",
         "ProductName": "MacBook Pro 15",
-        "GraphicName": "MacBook Pro 15",
+        "GraphicName": "macpro15.jpg",
         "CostPrice": "2249.99",
         "MSRP": "2249.99",
         "QtyOnHand": "8",
         "QtyOnBackOrder": "6",
-        "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
+        "Description": "MacBook Pro elevates the notebook to a whole new level of performance and portability. The 15 model has a 6-core Intel Core i7 processor and a stunning Retina display with True Tone."
     },
     {
         "name": "Apple",
         "ProductName": "MacBook Pro 13",
-        "GraphicName": "MacBook Pro 13",
+        "GraphicName": "macpro13.jpg",
         "CostPrice": "1999.99",
         "MSRP": "1999.99",
         "QtyOnHand": "6",
         "QtyOnBackOrder": "18",
-        "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
+        "Description": "MacBook Pro elevates the notebook to a whole new level of performance and portability. Wherever your ideas take you, you’ll get there faster than ever with high‑performance processors and memory, advanced graphics, blazing‑fast storage and more — all in a compact 1.4-kg package."
     },
     {
         "name": "Apple",
         "ProductName": "MacBook Air",
-        "GraphicName": "MacBook Air",
+        "GraphicName": "macair.jpg",
         "CostPrice": "1499.99",
         "MSRP": "1499.99",
         "QtyOnHand": "5",
         "QtyOnBackOrder": "12",
-        "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
+        "Description": "The incredibly thin and light MacBook Air is now more powerful than ever. It features a brilliant Retina display, new Magic Keyboard, Touch ID, processors with up to twice the performance."
     },
     {
         "name": "Apple",
-        "ProductName": "MacBook Pro",
-        "GraphicName": "MacBook Pro",
+        "ProductName": "Mac Pro",
+        "GraphicName": "macpro.jpg",
         "CostPrice": "49999.99",
         "MSRP": "49999.99",
         "QtyOnHand": "1",
         "QtyOnBackOrder": "3",
-        "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
+        "Description": "Mac Pro is designed for pros who need the ultimate in CPU performance. From production rendering to playing hundreds of virtual instruments to simulating an iOS app on multiple devices at once, it’s exceedingly capable."
     },
     {
         "name": "Razer",
         "ProductName": "Razer Blade Stealth 13",
-        "GraphicName": "Razer Blade Stealth 13",
+        "GraphicName": "razerbladestealth13.jpg",
         "CostPrice": "1849.99",
         "MSRP": "1849.99",
         "QtyOnHand": "12",
         "QtyOnBackOrder": "7",
-        "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
+        "Description": "The new Razer Blade Stealth 13 pushes the envelope with what’s possible in a thin and light Ultrabook. Utilizing the 10th gen Intel® Core™ i7 processor at 25W and an all-new GeForce® GTX 1650 Ti, you’ll rip through games and content creation tasks."
     },
     {
         "name": "Razer",
         "ProductName": "Razer Blade 15",
-        "GraphicName": "Razer Blade 15",
+        "GraphicName": "razerblade15.jpg",
         "CostPrice": "1449.99",
         "MSRP": "1449.99",
         "QtyOnHand": "9",
         "QtyOnBackOrder": "5",
-        "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
+        "Description": "We’re talking more power with an available 8-Core 10th Gen Intel® Core™ i7 processor, up to 25% faster graphics with NVIDIA® GeForce RTX SUPER™, and up to 300Hz FHD matte displays for an obscene competitive advantage in high-FPS games."
     },
     {
         "name": "Razer",
-        "ProductName": "Razer Blade 17",
-        "GraphicName": "Razer Blade 17",
+        "ProductName": "Razer Blade Pro 17",
+        "GraphicName": "razerblade17.jpg",
         "CostPrice": "1999.99",
         "MSRP": "1999.99",
         "QtyOnHand": "10",
         "QtyOnBackOrder": "5",
-        "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
+        "Description": "We’re pushing the limits to what a gaming laptop can do. The Razer Blade Pro 17 is built with a powerful processor to run performance-demanding AAA games on the go."
     },
     {
         "name": "Razer",
         "ProductName": "Razer Blade 15 Studio Edition",
-        "GraphicName": "Razer Blade 15 Studio Edition",
+        "GraphicName": "razerblade15studio.jpg",
         "CostPrice": "1249.99",
         "MSRP": "1249.99",
         "QtyOnHand": "15",
         "QtyOnBackOrder": "25",
-        "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
+        "Description": "Razer Blade Studio Edition laptops deliver professional quality displays, driving resolutions up to 4K and a color gamut up to 100% DCi-P3, that allow creators to work with visual clarity."
     },
     {
         "name": "Razer",
         "ProductName": "Razer Raptor 27",
-        "GraphicName": "Razer Raptor 27",
+        "GraphicName": "razerraptor27.jpg",
         "CostPrice": "749.99",
         "MSRP": "749.99",
         "QtyOnHand": "6",
         "QtyOnBackOrder": "10",
-        "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
+        "Description": "One of the hallmarks of a premium display is the ability to show the whole spectrum of vibrant colors, while also rendering deep rich blacks. The Razer Raptor does just that, featuring an IPS display supporting HDR400 with an insanely wide factory calibrated DCI-P3 color gamut."
     },
     {
         "name": "Microsoft",
         "ProductName": "Surface Go 2",
-        "GraphicName": "Surface Go 2",
+        "GraphicName": "surfacego2.jpg",
         "CostPrice": "499.99",
         "MSRP": "499.99",
         "QtyOnHand": "12",
         "QtyOnBackOrder": "15",
-        "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
+        "Description": "New Surface Go 2 is perfectly portable, with a bigger 10.5” touchscreen, better resolution, and long battery life designed to keep up with you and your family."
     },
     {
         "name": "Microsoft",
         "ProductName": "Surface Laptop 3",
-        "GraphicName": "Surface Laptop 3",
+        "GraphicName": "surfacelap3.jpg",
         "CostPrice": "1499.99",
         "MSRP": "1499.99",
         "QtyOnHand": "11",
         "QtyOnBackOrder": "14",
-        "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
+        "Description": "Slim and stylish, available in 13.5” and new 15” touchscreens, rich colour options,¹ and two durable finishes. Make a powerful statement and get improved speed, performance and battery life."
     },
     {
         "name": "Microsoft",
         "ProductName": "Surface Pro 7",
-        "GraphicName": "Surface Pro 7",
+        "GraphicName": "surfacepro7.jpg",
         "CostPrice": "1849.99",
         "MSRP": "1849.99",
         "QtyOnHand": "9",
         "QtyOnBackOrder": "13",
-        "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
+        "Description": "The 12.3 touchscreen 2-in-1 laptop that’s ultra-light and versatile — Surface Pro 7 is your endlessly adaptable partner now with faster processing and more connections — plus all-day battery life."
     },
     {
         "name": "Microsoft",
         "ProductName": "Surface Book 3",
-        "GraphicName": "Surface Book 3",
+        "GraphicName": "surfacebook3.jpg",
         "CostPrice": "2499.99",
         "MSRP": "2499.99",
         "QtyOnHand": "4",
         "QtyOnBackOrder": "16",
-        "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
+        "Description": "Meet the laptop that can handle your biggest demands. The most powerful Surface laptop yet combines speed, graphics, and immersive gaming with the versatility of a laptop, tablet, and portable studio."
     },
     {
         "name": "Microsoft",
         "ProductName": "Surface Studio 2",
-        "GraphicName": "Surface Studio 2",
+        "GraphicName": "surfacestudio2.jpg",
         "CostPrice": "3999.99",
         "MSRP": "3999.99",
         "QtyOnHand": "3",
         "QtyOnBackOrder": "5",
-        "Description": "Temporary Desription - Temporary Desription - Temporary Desription - Temporary Desription"
+        "Description": "The ultimate creative studio. Let your ideas flow with brilliant color, blazing graphics, faster processors, intuitive tools, and a stunning, adjustable 28 display."
     }
 ]
