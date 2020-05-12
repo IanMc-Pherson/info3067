@@ -2,7 +2,7 @@
     {
         "name": "Apple",
         "ProductName": "MacBook Pro 16",
-        "GraphicName": "macpro16.jpg",
+        "GraphicName": "macpro16.png",
         "CostPrice": "2499.99",
         "MSRP": "2499.99",
         "QtyOnHand": "4",
@@ -12,7 +12,7 @@
     {
         "name": "Apple",
         "ProductName": "MacBook Pro 15",
-        "GraphicName": "macpro15.jpg",
+        "GraphicName": "macpro15.png",
         "CostPrice": "2249.99",
         "MSRP": "2249.99",
         "QtyOnHand": "8",
@@ -22,7 +22,7 @@
     {
         "name": "Apple",
         "ProductName": "MacBook Pro 13",
-        "GraphicName": "macpro13.jpg",
+        "GraphicName": "macpro13.png",
         "CostPrice": "1999.99",
         "MSRP": "1999.99",
         "QtyOnHand": "6",
@@ -32,7 +32,7 @@
     {
         "name": "Apple",
         "ProductName": "MacBook Air",
-        "GraphicName": "macair.jpg",
+        "GraphicName": "macair.png",
         "CostPrice": "1499.99",
         "MSRP": "1499.99",
         "QtyOnHand": "5",
@@ -42,7 +42,7 @@
     {
         "name": "Apple",
         "ProductName": "Mac Pro",
-        "GraphicName": "macpro.jpg",
+        "GraphicName": "macpro.png",
         "CostPrice": "49999.99",
         "MSRP": "49999.99",
         "QtyOnHand": "1",
@@ -52,7 +52,7 @@
     {
         "name": "Razer",
         "ProductName": "Razer Blade Stealth 13",
-        "GraphicName": "razerbladestealth13.jpg",
+        "GraphicName": "razerbladestealth13.png",
         "CostPrice": "1849.99",
         "MSRP": "1849.99",
         "QtyOnHand": "12",
@@ -62,7 +62,7 @@
     {
         "name": "Razer",
         "ProductName": "Razer Blade 15",
-        "GraphicName": "razerblade15.jpg",
+        "GraphicName": "razerblade15.png",
         "CostPrice": "1449.99",
         "MSRP": "1449.99",
         "QtyOnHand": "9",
@@ -72,7 +72,7 @@
     {
         "name": "Razer",
         "ProductName": "Razer Blade Pro 17",
-        "GraphicName": "razerblade17.jpg",
+        "GraphicName": "razerblade17.png",
         "CostPrice": "1999.99",
         "MSRP": "1999.99",
         "QtyOnHand": "10",
@@ -82,7 +82,7 @@
     {
         "name": "Razer",
         "ProductName": "Razer Blade 15 Studio Edition",
-        "GraphicName": "razerblade15studio.jpg",
+        "GraphicName": "razerblade15studio.png",
         "CostPrice": "1249.99",
         "MSRP": "1249.99",
         "QtyOnHand": "15",
@@ -92,7 +92,7 @@
     {
         "name": "Razer",
         "ProductName": "Razer Raptor 27",
-        "GraphicName": "razerraptor27.jpg",
+        "GraphicName": "razerraptor27.png",
         "CostPrice": "749.99",
         "MSRP": "749.99",
         "QtyOnHand": "6",
@@ -102,7 +102,7 @@
     {
         "name": "Microsoft",
         "ProductName": "Surface Go 2",
-        "GraphicName": "surfacego2.jpg",
+        "GraphicName": "surfacego2.png",
         "CostPrice": "499.99",
         "MSRP": "499.99",
         "QtyOnHand": "12",
@@ -112,7 +112,7 @@
     {
         "name": "Microsoft",
         "ProductName": "Surface Laptop 3",
-        "GraphicName": "surfacelap3.jpg",
+        "GraphicName": "surfacelap3.png",
         "CostPrice": "1499.99",
         "MSRP": "1499.99",
         "QtyOnHand": "11",
@@ -122,7 +122,7 @@
     {
         "name": "Microsoft",
         "ProductName": "Surface Pro 7",
-        "GraphicName": "surfacepro7.jpg",
+        "GraphicName": "surfacepro7.png",
         "CostPrice": "1849.99",
         "MSRP": "1849.99",
         "QtyOnHand": "9",
@@ -132,7 +132,7 @@
     {
         "name": "Microsoft",
         "ProductName": "Surface Book 3",
-        "GraphicName": "surfacebook3.jpg",
+        "GraphicName": "surfacebook3.png",
         "CostPrice": "2499.99",
         "MSRP": "2499.99",
         "QtyOnHand": "4",
@@ -142,7 +142,7 @@
     {
         "name": "Microsoft",
         "ProductName": "Surface Studio 2",
-        "GraphicName": "surfacestudio2.jpg",
+        "GraphicName": "surfacestudio2.png",
         "CostPrice": "3999.99",
         "MSRP": "3999.99",
         "QtyOnHand": "3",
